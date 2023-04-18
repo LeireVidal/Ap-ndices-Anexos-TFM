@@ -1,5 +1,5 @@
 # Apendices-TFM
-En esta carpeta se pueden encontrar apéndice con información adicional para el documento TFM de Leire Vidal
+En esta carpeta se pueden encontrar tanto apéndices como anexos con información adicional para el trabajo final de máster de Leire Vidal
 
 APENDICES
 * Un archivo comprimido denominado Node_RED, donde se encuentran los flujos empleados para la captura y carga de datos.
